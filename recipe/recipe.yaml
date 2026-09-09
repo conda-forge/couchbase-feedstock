@@ -19,7 +19,7 @@ source:
     file_name: asio-LICENSE_1_0.txt
 
 build:
-  number: 0
+  number: 1
   script:
     env:
       PYCBC_USE_CPM_CACHE: "true"
